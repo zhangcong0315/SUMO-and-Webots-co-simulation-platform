@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<configuration>
+  <input>
+    <net-file value="sumo.net.xml"/>
+    <route-files value="sumo.rou.xml"/>
+  </input>
+
+  <time>
+    <begin value="0"/>
+	<end value="24900"/>
+	<step-length value="0.05"/>
+  </time>
+  <output>
+	<netstate-dump value="netstate_out.xml"/>
+	<tripinfo-output value="tripinfo.xml"/>
+    <statistic-output value="stating.xml"/>
+  </output>
+ 
+ <processing>
+   <step-method.ballistic value="true"/>
+   <route-steps value="0"/>
+</processing>
+</configuration>
