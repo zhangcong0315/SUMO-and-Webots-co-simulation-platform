@@ -26,5 +26,11 @@ Here is the demo of driving in a roundabout: https://purdue0-my.sharepoint.com/:
 
 ## Prerequisites
 Requires: Python 3.6
+
+## Usage
 Please change the foler path in Webots interface: SUMOInterface"sumo interface"--networkFiles.
+
+## Contact Information
+Contactor: Cong Zhang
+Email: zhan4314@purdue.edu
 
