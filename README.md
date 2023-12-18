@@ -16,7 +16,7 @@ Figure 2 shows a snapshot of the co-simulation platform. The Webots view represe
 <p align="center">
   <b>Figure 2. Multi-level driving simulator</b>
   <br>
-  <img src="https://github.com/zhangcong0315/SUMO-and-Webots-co-simulation-platform/blob/main/Picture1.png" alt="Co-Simulation Platform Overview">
+  <img src="https://github.com/zhangcong0315/SUMO-and-Webots-co-simulation-platform/blob/main/Picture2.png" alt="Co-Simulation Platform Overview">
 </p>
 
 
