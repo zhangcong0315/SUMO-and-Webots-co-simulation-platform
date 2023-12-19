@@ -41,7 +41,7 @@ Pedals
 After connecting Logitech G29 racing wheel and pedals with Webots, please change the foler path in Webots interface: SUMOInterface"sumo interface"--networkFiles.Simulation data including vehicle dynamics (e.g., vehicle location and speed) are synchronized between Webots and SUMO in real-time using the traffic control interface (TraCI) in SUMO and the supervisor in Webots.
 
 ## Testing
-
+click simple_case/world/Co-simulaltion_Platform.wbt and drive, a SUMO interface with top view will show in the other screen
 
 
 # Contact Information
