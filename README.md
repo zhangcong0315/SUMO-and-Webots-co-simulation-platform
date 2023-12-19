@@ -45,7 +45,9 @@ click simple_case/AnnarborRoundabout/world/Co-simulaltion_Platform.wbt and drive
 
 ## Generate your own worlds
 If you want to generate your own worlds, several points you need to revise:
-1. Go to simple_case/AnnarborRoundabout/world/myMapV5_net. Replace your own .rou file and file 
+1. Go to simple_case/AnnarborRoundabout/world/myMapV5_net. Replace your own sumo.sumocfg file, sumo.net.xml, and sumo.rou.xml.
+2. Go to simple_case/AnnarborRoundabout/controllers/sumo_supervisor/SUmoSupervisor.py. This is the anchor integrate SUMO using Traci and Webots.
+3. Go to simple_case/AnnarborRoundabout/controllers/Joystickexmaple/Joystickexmaple.py. This is the controller from Webots side.
 
 
 # Contact Information
