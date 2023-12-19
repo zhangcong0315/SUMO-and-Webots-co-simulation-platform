@@ -30,7 +30,7 @@ Enviornments: Python 3.6
 ## Simulator to download
 SUMO download at:https://sumo.dlr.de/docs/index.html
 
-Webots download at: 
+Webots download at: https://cyberbotics.com/
 
 ## Equipment
 Logitech G29 racing wheel
@@ -38,7 +38,7 @@ Pedals
 
 
 ## Usage
-Please change the foler path in Webots interface: SUMOInterface"sumo interface"--networkFiles.
+After connecting Logitech G29 racing wheel and pedals with Webots, please change the foler path in Webots interface: SUMOInterface"sumo interface"--networkFiles.
 
 # Contact Information
 Contactor: Cong Zhang
