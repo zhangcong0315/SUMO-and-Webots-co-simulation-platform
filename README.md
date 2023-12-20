@@ -34,6 +34,7 @@ Webots download at: https://cyberbotics.com/
 
 ## Equipment
 Logitech G29 racing wheel
+
 Pedals
 
 
